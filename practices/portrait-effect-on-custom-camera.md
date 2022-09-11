@@ -4,8 +4,6 @@
 
 Ở camera iPhone khi chúng ta chọn chế độ PORTRAIT (chế độ chụp ảnh chân dung), thì phía sau khuôn mặt của chúng ta khi chụp ảnh sẽ được làm mờ (blur) đi như hình bên dưới:
 
-<figure><img src="../.gitbook/assets/portrait-effect-on-custom-camera/IMG_1340.png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/portrait-effect-on-custom-camera/Untitled.png" alt=""><figcaption><p>Hình 1: Chế độ chân dung của iPhone</p></figcaption></figure>
 
 Vậy nếu chúng ta muốn sử dụng hiệu ứng làm mờ background phía sau khuôn mặt vào custom camera trong một ứng dụng iOS thì chúng ta phải làm như thế nào? Không may thay, mình chưa tìm ra được một cách nào dễ dàng để có được hiệu ứng này.
