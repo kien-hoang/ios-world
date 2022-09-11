@@ -8,10 +8,10 @@
 * [Style convention](fundamentals/style-convention.md)
 * [SOLID](fundamentals/solid.md)
 
-## Practices
-
-* [Portrait effect on custom camera](practices/portrait-effect-on-custom-camera.md)
-
 ## RxSwift
 
 * [Cheat sheet](rxswift/cheat-sheet.md)
+
+## Practices
+
+* [Portrait effect on custom camera](practices/portrait-effect-on-custom-camera.md)
