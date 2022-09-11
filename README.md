@@ -22,7 +22,7 @@ List features:
   * Content hugging vs content compression resistance
   * Reuse logic of UITableView/UICollectionView
 * Design Patterns/Architecture
-  * [SOLID](fundamentals/solid.md)
+  * [SOLID](design-patterns-architecture/solid.md)
   * Design Pattern
     * Singleton
   * Architecture

@@ -6,7 +6,10 @@
 
 * [Lộ trình bắt đầu học lập trình iOS](fundamentals/lo-trinh-bat-dau-hoc-lap-trinh-ios.md)
 * [Style convention](fundamentals/style-convention.md)
-* [SOLID](fundamentals/solid.md)
+
+## Design Patterns/Architecture
+
+* [SOLID](design-patterns-architecture/solid.md)
 
 ## RxSwift
 
