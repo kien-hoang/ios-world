@@ -4,7 +4,7 @@
 
 Ở camera iPhone khi chúng ta chọn chế độ PORTRAIT (chế độ chụp ảnh chân dung), thì phía sau khuôn mặt của chúng ta khi chụp ảnh sẽ được làm mờ (blur) đi như hình bên dưới:
 
-<figure><img src="../.gitbook/assets/Untitled.png" alt=""><figcaption><p>Hình 1: Chế độ chân dung của iPhone</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled.png" width="200" alt=""><figcaption><p>Hình 1: Chế độ chân dung của iPhone</p></figcaption></figure>
 
 Vậy nếu chúng ta muốn sử dụng hiệu ứng làm mờ background phía sau khuôn mặt vào custom camera trong một ứng dụng iOS thì chúng ta phải làm như thế nào? Không may thay, mình chưa tìm ra được một cách nào dễ dàng để có được hiệu ứng này.
 
@@ -17,7 +17,7 @@ Vậy để đạt được hiệu ứng blur background như chế độ PORTRA
 
 Bức ảnh sau đây mô tả rõ hơn cách chúng ta sẽ thực hiện:
 
-<figure><img src="../.gitbook/assets/Untitled 1.png" alt=""><figcaption><p>Hình 2: Cơ chế tạo ra ảnh có hiệu ứng giống chụp chân dung ở iPhone</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Untitled 1.png" width="700" alt=""><figcaption><p>Hình 2: Cơ chế tạo ra ảnh có hiệu ứng giống chụp chân dung ở iPhone</p></figcaption></figure>
 
 ### 2.1. Depth map là gì?
 
@@ -33,7 +33,7 @@ Về cách chi tiết để lấy được depth map, chúng ta sẽ thực hi�
 
 Mình tìm thấy bức ảnh này ở tài liệu được giới thiệu vào WWDC 2017 (image editing with depth) sẽ đính kèm link ở chương cuối:
 
-<figure><img src="../.gitbook/assets/Screen_Shot_2022-05-15_at_11.47.51.png" alt=""><figcaption><p>Hình 4: Hiệu ứng CIDepthBlurEffect để tạo ra ảnh có hiệu ứng chân dung</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screen_Shot_2022-05-15_at_11.47.51.png" width="700" alt=""><figcaption><p>Hình 4: Hiệu ứng CIDepthBlurEffect để tạo ra ảnh có hiệu ứng chân dung</p></figcaption></figure>
 
 Như chúng ta thấy ở trên, chúng ta sẽ sử dụng filter tên là “CIDepthBlurEffect” để kết hợp 2 ảnh gốc và depth map lại với nhau. Cụ thể như dòng code bên dưới:
 
@@ -45,11 +45,11 @@ Như chúng ta thấy ở trên, chúng ta sẽ sử dụng filter tên là “C
 
 <div>
 
-<figure><img src="../.gitbook/assets/IMG_1340.png" alt=""><figcaption><p>Hình 6: Ảnh gốc khi chụp bằng camera ở ứng dụng iOS</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_1340.png" width="350" alt=""><figcaption><p>Hình 6: Ảnh gốc khi chụp bằng camera ở ứng dụng iOS</p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/IMG_1341.png" alt=""><figcaption><p>Hình 7: Ảnh nhận được sau khi kết hợp ảnh gốc và depth map</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_1341.png" width="350" alt=""><figcaption><p>Hình 7: Ảnh nhận được sau khi kết hợp ảnh gốc và depth map</p></figcaption></figure>
 
 </div>
 
