@@ -1,4 +1,4 @@
-# Lộ trình iOS cho người mới
+# Lộ trình iOS cho người mới bắt đầu
 
 **1. Công cụ**
 
