@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/featured-image.webp
-coverY: 153.70528266913811
+coverY: -33.134383688600494
 ---
 
 # iOS World
