@@ -159,15 +159,24 @@ else {
 Nên:
 
 ```swift
+let user = try await getUser(for: userID, 
+                             on: connection)
+```
+
+Hoặc:
+
+```swift
 let user = try await getUser(
   for: userID,
-  on: connection)
+  on: connection
+)
 ```
 
 Không nên:
 
 ```swift
-let user = try await getUser(
+let user = try await getUser
+(
   for: userID,
   on: connection
 )
