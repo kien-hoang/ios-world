@@ -8,6 +8,7 @@
   * [Struct vs Class](fundamentals/struct-vs-class.md)
   * [Memory leaks](fundamentals/memory-leaks.md)
   * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
+  * [UIViewController lifecycle](fundamentals/uiviewcontroller-lifecycle.md)
   * [Autolayout Priority](fundamentals/autolayout-priority.md)
 * [Design Patterns/Architecture](design-patterns-architecture/README.md)
   * [SOLID](design-patterns-architecture/solid.md)
@@ -29,5 +30,5 @@
 
 ## Blogs + Practices
 
-* [SOLID](blogs-+-practices/solid.md)
-* [Portrait effect on custom camera](blogs-+-practices/portrait-effect-on-custom-camera.md)
+* [SOLID](<design-patterns-architecture/solid (1).md>)
+* [Portrait effect on custom camera](practices/portrait-effect-on-custom-camera.md)

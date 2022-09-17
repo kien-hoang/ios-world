@@ -18,6 +18,7 @@ List common features:
   * [Struct vs Class](fundamentals/struct-vs-class.md)
   * [Memory leaks](fundamentals/memory-leaks.md)
   * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
+  * [UIViewController lifecycle](fundamentals/uiviewcontroller-lifecycle.md)
   * [Content hugging vs content compression resistance](fundamentals/autolayout-priority.md)
   * Reuse logic of UITableView/UICollectionView
 * [Design Patterns/Architecture](design-patterns-architecture/)

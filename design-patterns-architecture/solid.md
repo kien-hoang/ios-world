@@ -1,6 +1,6 @@
 # SOLID
 
-[Link thảm khảo](../blogs-+-practices/solid.md)
+[Link thảm khảo](<solid (1).md>)
 
 1. The Single Responsibility Principle (SRP): 1 class chỉ nên chịu 1 trách nhiệm duy nhất
 2. The Open-Closed Principle (OCP): class phải dễ mở rộng nhưng khó chỉnh sửa. Nói đơn giản là bạn có thể thêm function vào class nhưng khó sửa các function hiện tại.
