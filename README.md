@@ -23,8 +23,8 @@ List features:
   * Reuse logic of UITableView/UICollectionView
 * Design Patterns/Architecture
   * [SOLID](design-patterns-architecture/solid.md)
-  * Design Pattern
-    * Singleton
+  * [Design Pattern](design-patterns-architecture/design-pattern/)
+    * [Singleton](design-patterns-architecture/design-pattern/singleton.md)
   * Architecture
 * Networking
 * Multiple Threads

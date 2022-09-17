@@ -13,6 +13,8 @@
 ## Design Patterns/Architecture
 
 * [SOLID](design-patterns-architecture/solid.md)
+* [Design Pattern](design-patterns-architecture/design-pattern/README.md)
+  * [Singleton](design-patterns-architecture/design-pattern/singleton.md)
 
 ## RxSwift
 
