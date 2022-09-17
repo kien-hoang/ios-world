@@ -27,7 +27,7 @@ List features:
     * [Singleton](design-patterns-architecture/design-pattern/singleton.md)
   * Architecture
 * Networking
-* Multiple Threads
+* [Multiple Threads](multiple-threads/multiple-threads.md)
   * GCD
   * Operation Queue
 * UI

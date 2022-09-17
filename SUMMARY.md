@@ -17,6 +17,10 @@
 * [Design Pattern](design-patterns-architecture/design-pattern/README.md)
   * [Singleton](design-patterns-architecture/design-pattern/singleton.md)
 
+## Multiple Threads
+
+* [Multiple Threads](multiple-threads/multiple-threads.md)
+
 ## RxSwift
 
 * [Cheat sheet](rxswift/cheat-sheet.md)
