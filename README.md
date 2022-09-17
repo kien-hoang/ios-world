@@ -17,7 +17,7 @@ List features:
   * [iOS Roadmap for beginner](fundamentals/lo-trinh-bat-dau-hoc-lap-trinh-ios.md)
   * [Style convention](fundamentals/style-convention.md)
   * [Struct vs Class](fundamentals/struct-vs-class.md)
-  * Memory leaks
+  * [Memory leaks](fundamentals/memory-leaks.md)
   * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
   * [Content hugging vs content compression resistance](fundamentals/autolayout-priority.md)
   * Reuse logic of UITableView/UICollectionView
