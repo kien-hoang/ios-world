@@ -20,7 +20,7 @@ List common features:
   * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
   * [Content hugging vs content compression resistance](fundamentals/autolayout-priority.md)
   * Reuse logic of UITableView/UICollectionView
-* Design Patterns/Architecture
+* [Design Patterns/Architecture](design-patterns-architecture/)
   * [SOLID](design-patterns-architecture/solid.md)
   * [Architecture vs Design Pattern](design-patterns-architecture/architecture-vs-design-pattern.md)
   * [Design Pattern](design-patterns-architecture/design-pattern/)
@@ -43,4 +43,4 @@ List common features:
 * CI/CD
 * In-app purchase
 * Deeplink
-* [Practices](broken-reference)
+* [Blogs + Practices](broken-reference)

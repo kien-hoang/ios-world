@@ -9,17 +9,15 @@
   * [Memory leaks](fundamentals/memory-leaks.md)
   * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
   * [Autolayout Priority](fundamentals/autolayout-priority.md)
-
-## Design Patterns/Architecture
-
-* [SOLID](design-patterns-architecture/solid.md)
-* [Architecture vs Design Pattern](design-patterns-architecture/architecture-vs-design-pattern.md)
-* [Design Pattern](design-patterns-architecture/design-pattern/README.md)
-  * [Singleton](design-patterns-architecture/design-pattern/singleton.md)
-* [Architecture](design-patterns-architecture/architecture/README.md)
-  * [MVC](design-patterns-architecture/architecture/mvc.md)
-  * [MVP](design-patterns-architecture/architecture/mvp.md)
-  * [MVVM](design-patterns-architecture/architecture/mvvm.md)
+* [Design Patterns/Architecture](design-patterns-architecture/README.md)
+  * [SOLID](design-patterns-architecture/solid.md)
+  * [Architecture vs Design Pattern](design-patterns-architecture/architecture-vs-design-pattern.md)
+  * [Design Pattern](design-patterns-architecture/design-pattern/README.md)
+    * [Singleton](design-patterns-architecture/design-pattern/singleton.md)
+  * [Architecture](design-patterns-architecture/architecture/README.md)
+    * [MVC](design-patterns-architecture/architecture/mvc.md)
+    * [MVP](design-patterns-architecture/architecture/mvp.md)
+    * [MVVM](design-patterns-architecture/architecture/mvvm.md)
 
 ## Multiple Threads
 
@@ -29,6 +27,7 @@
 
 * [Cheat sheet](rxswift/cheat-sheet.md)
 
-## Practices
+## Blogs + Practices
 
-* [Portrait effect on custom camera](practices/portrait-effect-on-custom-camera.md)
+* [SOLID](blogs-+-practices/solid.md)
+* [Portrait effect on custom camera](blogs-+-practices/portrait-effect-on-custom-camera.md)
