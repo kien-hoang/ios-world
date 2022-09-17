@@ -31,17 +31,18 @@ List common features:
     * [MVP](design-patterns-architecture/architecture/mvp.md)
     * [MVVM](design-patterns-architecture/architecture/mvvm.md)
 * Networking
-* [Multiple Threads](multiple-threads/multiple-threads.md)
-  * GCD
-  * Operation Queue
-* UI
-  * Texture (AsyncDisplayKit)
+* [Multiple Threads](multiple-threads/)
+  * [GCD](multiple-threads/gcd.md)
+  * [Operation Queue](multiple-threads/operation-queue.md)
+* [UI + Autolayout](ui-+-autolayout/)
+  * [Texture (AsyncDisplayKit)](ui-+-autolayout/texture-asyncdisplaykit.md)
   * SwiftUI
-* Data Storage
-  * Core Data
-* [RxSwift](broken-reference)
+* [Data Storage](data-storage/)
+  * [Core Data](data-storage/core-data.md)
+  * Realm
+* [RxSwift](rxswift/)
 * Combine
 * CI/CD
 * In-app purchase
 * Deeplink
-* [Blogs + Practices](broken-reference)
+* [Blogs + Practices](blogs-+-practices/)

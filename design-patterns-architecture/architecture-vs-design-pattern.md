@@ -2,6 +2,14 @@
 
 Link tham khảo: [https://stackoverflow.com/a/4243407](https://stackoverflow.com/a/4243407)
 
+{% hint style="info" %}
+Giống nhau: chúng đều là pattern. Mục đích là giải quyết 1 cấu trúc phức tạp thành những phần nhỏ đơn giản hơn
+
+Khác nhau: ở một mức cao, chúng ta sử dụng architect pattern để giải quyết. Ở một mức độ thấp hơn, chúng ta sử dụng design pattern. Mức độ cơ bản nhất (implememtation level), chúng ta sử dụng programming paradigms
+{% endhint %}
+
+****
+
 **Patterns** are distilled commonality that you find in programs. It allows us to deconstruct a large complex structure and build using simple parts. It provides a general solution for a class of problems.
 
 {% hint style="info" %}
