@@ -16,7 +16,7 @@ List features:
 * [Fundamentals](broken-reference)
   * [iOS Roadmap for beginner](fundamentals/lo-trinh-bat-dau-hoc-lap-trinh-ios.md)
   * [Style convention](fundamentals/style-convention.md)
-  * Struct vs Class
+  * [Struct vs Class](fundamentals/struct-vs-class.md)
   * Memory leaks
   * iOS app lifecycle
   * Content hugging vs content compression resistance
