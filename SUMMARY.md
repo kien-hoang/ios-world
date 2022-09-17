@@ -7,6 +7,7 @@
 * [Lộ trình bắt đầu học lập trình iOS](fundamentals/lo-trinh-bat-dau-hoc-lap-trinh-ios.md)
 * [Style convention](fundamentals/style-convention.md)
 * [Struct vs Class](fundamentals/struct-vs-class.md)
+* [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
 
 ## Design Patterns/Architecture
 
