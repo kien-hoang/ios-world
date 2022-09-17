@@ -14,8 +14,13 @@
 ## Design Patterns/Architecture
 
 * [SOLID](design-patterns-architecture/solid.md)
+* [Architecture vs Design Pattern](design-patterns-architecture/architecture-vs-design-pattern.md)
 * [Design Pattern](design-patterns-architecture/design-pattern/README.md)
   * [Singleton](design-patterns-architecture/design-pattern/singleton.md)
+* [Architecture](design-patterns-architecture/architecture/README.md)
+  * [MVC](design-patterns-architecture/architecture/mvc.md)
+  * [MVP](design-patterns-architecture/architecture/mvp.md)
+  * [MVVM](design-patterns-architecture/architecture/mvvm.md)
 
 ## Multiple Threads
 
