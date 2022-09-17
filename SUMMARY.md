@@ -8,6 +8,7 @@
 * [Style convention](fundamentals/style-convention.md)
 * [Struct vs Class](fundamentals/struct-vs-class.md)
 * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
+* [Autolayout Priority](fundamentals/autolayout-priority.md)
 
 ## Design Patterns/Architecture
 

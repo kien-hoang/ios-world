@@ -19,7 +19,7 @@ List features:
   * [Struct vs Class](fundamentals/struct-vs-class.md)
   * Memory leaks
   * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
-  * Content hugging vs content compression resistance
+  * [Content hugging vs content compression resistance](fundamentals/autolayout-priority.md)
   * Reuse logic of UITableView/UICollectionView
 * Design Patterns/Architecture
   * [SOLID](design-patterns-architecture/solid.md)
