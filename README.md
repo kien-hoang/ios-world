@@ -18,7 +18,7 @@ List features:
   * [Style convention](fundamentals/style-convention.md)
   * [Struct vs Class](fundamentals/struct-vs-class.md)
   * Memory leaks
-  * iOS app lifecycle
+  * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
   * Content hugging vs content compression resistance
   * Reuse logic of UITableView/UICollectionView
 * Design Patterns/Architecture
