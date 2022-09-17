@@ -10,7 +10,7 @@
   * [UIViewController lifecycle](fundamentals/uiviewcontroller-lifecycle.md)
   * [Autolayout Priority](fundamentals/autolayout-priority.md)
   * [Ways to pass data](fundamentals/ways-to-pass-data.md)
-  * [Frame và Bounds](fundamentals/frame-va-bounds.md)
+  * [Frame vs Bounds](fundamentals/frame-va-bounds.md)
 * [Design Patterns/Architecture](design-patterns-architecture/README.md)
   * [SOLID](design-patterns-architecture/solid.md)
   * [Architecture vs Design Pattern](design-patterns-architecture/architecture-vs-design-pattern.md)

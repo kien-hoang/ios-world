@@ -13,6 +13,10 @@ For easier reading, please go to [Gitbook](https://kien-bradley.gitbook.io/ios-w
 
 List common features:
 
+{% hint style="success" %}
+I will list some features which are usually asked in the interview
+{% endhint %}
+
 * [Fundamentals](fundamentals/)
   * [OOP](fundamentals/oop.md)
   * [Struct vs Class](fundamentals/struct-vs-class.md)
