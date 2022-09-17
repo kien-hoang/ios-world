@@ -11,11 +11,10 @@ For easier reading, please go to [Gitbook](https://kien-bradley.gitbook.io/ios-w
 
 
 
-List features:
+List common features:
 
-* [Fundamentals](broken-reference)
-  * [iOS Roadmap for beginner](fundamentals/lo-trinh-bat-dau-hoc-lap-trinh-ios.md)
-  * [Style convention](fundamentals/style-convention.md)
+* [Fundamentals](fundamentals/)
+  * [OOP](fundamentals/oop.md)
   * [Struct vs Class](fundamentals/struct-vs-class.md)
   * [Memory leaks](fundamentals/memory-leaks.md)
   * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)

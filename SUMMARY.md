@@ -1,15 +1,14 @@
 # Table of contents
 
 * [iOS World](README.md)
-
-## Fundamentals
-
-* [Lộ trình bắt đầu học lập trình iOS](fundamentals/lo-trinh-bat-dau-hoc-lap-trinh-ios.md)
-* [Style convention](fundamentals/style-convention.md)
-* [Struct vs Class](fundamentals/struct-vs-class.md)
-* [Memory leaks](fundamentals/memory-leaks.md)
-* [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
-* [Autolayout Priority](fundamentals/autolayout-priority.md)
+* [Fundamentals](fundamentals/README.md)
+  * [Lộ trình bắt đầu học lập trình iOS](fundamentals/lo-trinh-bat-dau-hoc-lap-trinh-ios.md)
+  * [Style convention](fundamentals/style-convention.md)
+  * [OOP](fundamentals/oop.md)
+  * [Struct vs Class](fundamentals/struct-vs-class.md)
+  * [Memory leaks](fundamentals/memory-leaks.md)
+  * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
+  * [Autolayout Priority](fundamentals/autolayout-priority.md)
 
 ## Design Patterns/Architecture
 
