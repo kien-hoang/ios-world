@@ -1,6 +1,6 @@
 # UIViewController lifecycle
 
-<figure><img src="../.gitbook/assets/uiviewcontroller-lifecycle/uiviewcontroller-lifecycle.png" alt=""><figcaption><p>Hình 1: UIViewController lifecycle</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/fundamentals/fundamentals-uiviewcontroller-lifecycle.png" alt=""><figcaption><p>Hình 1: UIViewController lifecycle</p></figcaption></figure>
 
 * Hàm init sẽ được gọi đầu tiên. init(coder:) nếu ViewController được tạo từ storyboard và init(nibName:bundle:) nếu được tạo từ nib file (thay vì storyboard)
 * loadView(): chỉ override method này khi muốn build lại toàn bộ UI cho ViewController bằng code. Nếu dùng storyboard hoặc nib thì không nên đụng vào hàm này. Hàm này được implement trong lúc UIViewController load interface và connect các outlet/action

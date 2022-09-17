@@ -6,7 +6,7 @@ Operation: Sẽ đóng gói và thực hiện 1 task.
 
 OperationQueue: Là nơi chứa nhiều operation. Operation có thể huỷ (cancel). Cũng có thể kiểm tra trạng thái của task đó như thế nào (Đang làm, làm xong rồi).
 
-<figure><img src="../.gitbook/assets/multiple-threads-operation-queue.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/multiple-threads/multiple-threads-operation-queue.png" alt=""><figcaption></figcaption></figure>
 
 An operation can be in several states, depending on its current execution status.
 

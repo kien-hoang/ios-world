@@ -2,7 +2,7 @@
 
 Khi app khởi động, sẽ nhảy vào hàm willFinishLaunchingWithOptions và didFinishLaunchingWithOptions (hàm này chúng ta thường dùng để enable 1 số service như: IQKeyboard, Firebase, …
 
-<figure><img src="../.gitbook/assets/ios-app-lifecycle/ios-app-lifecycle.png" alt=""><figcaption><p>Hình 1: iOS app life cycle</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/fundamentals/fundamentals-ios-app-lifecycle.png" alt=""><figcaption><p>Hình 1: iOS app life cycle</p></figcaption></figure>
 
 Ngoài ra, ứng dụng iOS sẽ nằm 1 trong 5 trạng thái sau đây:
 

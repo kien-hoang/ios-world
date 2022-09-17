@@ -6,4 +6,4 @@ Texture cho phép đưa image decoding, text sizing, rendering hoặc nhiều ho
 
 ⇒ Giúp main thread ít trách nhiệm nhất ⇒ Sẵn sàng hoạt động khi user interaction ⇒ Mượt vl
 
-<figure><img src="../.gitbook/assets/ui_texture.png" alt=""><figcaption><p>Photo 1: How Texture layout in table view</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ui-autolayout/ui-autolayout-texture.png" alt=""><figcaption><p>Photo 1: How Texture layout in table view</p></figcaption></figure>

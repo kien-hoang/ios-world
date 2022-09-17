@@ -3,7 +3,7 @@
 * Frame: vị trí và kích thước được xác định bằng hệ thống toạ độ của view cha
 * Bounds: vị trí và kích thước được xác định bằng hệ thống toạ độ của chính nó
 
-<figure><img src="../.gitbook/assets/frame-bounds.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/fundamentals/fundamentals-frame-bounds.png" alt=""><figcaption></figcaption></figure>
 
 ```
 Frame

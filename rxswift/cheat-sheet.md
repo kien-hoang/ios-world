@@ -1,3 +1,3 @@
 # Cheat sheet
 
-{% file src="../.gitbook/assets/RxSwift Cheatsheet.pdf" %}
+{% file src="../.gitbook/assets/rxswift/RxSwift Cheatsheet.pdf" %}
