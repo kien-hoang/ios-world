@@ -34,6 +34,8 @@ I will list some features which are usually asked in the interview
     * [MVC](design-patterns-architecture/architecture/mvc.md)
     * [MVP](design-patterns-architecture/architecture/mvp.md)
     * [MVVM](design-patterns-architecture/architecture/mvvm.md)
+    * VIPER
+    * [VIP](design-patterns-architecture/architecture/mvp-1.md)
 * Networking
 * [Multiple Threads](multiple-threads/)
   * [GCD](multiple-threads/gcd.md)

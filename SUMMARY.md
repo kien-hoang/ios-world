@@ -20,6 +20,7 @@
     * [MVC](design-patterns-architecture/architecture/mvc.md)
     * [MVP](design-patterns-architecture/architecture/mvp.md)
     * [MVVM](design-patterns-architecture/architecture/mvvm.md)
+    * [VIP](design-patterns-architecture/architecture/mvp-1.md)
 * [Multiple Threads](multiple-threads/README.md)
   * [Introduce](multiple-threads/multiple-threads.md)
   * [GCD](multiple-threads/gcd.md)
