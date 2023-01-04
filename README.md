@@ -19,12 +19,13 @@ I will list some features which are usually asked in the interview
 
 * [Fundamentals](fundamentals/)
   * [OOP](fundamentals/oop.md)
+  * [Access Levels](fundamentals/access-levels.md)
   * [Struct vs Class](fundamentals/struct-vs-class.md)
   * [Memory leaks](fundamentals/memory-leaks.md)
   * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
   * [UIViewController lifecycle](fundamentals/uiviewcontroller-lifecycle.md)
   * [Content hugging vs content compression resistance](fundamentals/autolayout-priority.md)
-  * Reuse logic of UITableView/UICollectionView
+  * [Reuse logic of UITableView/UICollectionView](fundamentals/reuse-uitableviewcell.md)
 * [Design Patterns/Architecture](design-patterns-architecture/)
   * [SOLID](design-patterns-architecture/solid.md)
   * [Architecture vs Design Pattern](design-patterns-architecture/architecture-vs-design-pattern.md)
