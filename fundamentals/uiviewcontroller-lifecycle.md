@@ -12,3 +12,20 @@
 * viewWillDisappear và viewDidDisappear
 * deinit(): trước khi ViewController bị remove khỏi memory
 * didReceiveMemoryWarning()
+
+```
+Screen A => Screen B
+
+DEBUG: A viewDidLoad
+DEBUG: A viewWillAppear
+DEBUG: A viewWillLayoutSubviews
+DEBUG: A viewDidLayoutSubviews
+DEBUG: A viewDidAppear
+DEBUG: B viewDidLoad
+DEBUG: A viewWillDisappear
+DEBUG: B viewWillAppear
+DEBUG: B viewWillLayoutSubviews
+DEBUG: B viewDidLayoutSubviews
+DEBUG: A viewDidDisappear
+DEBUG: B viewDidAppear
+```
