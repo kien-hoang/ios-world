@@ -14,13 +14,17 @@
 * didReceiveMemoryWarning()
 
 ```
-Screen A => Screen B
+Show screen A:
 
 DEBUG: A viewDidLoad
 DEBUG: A viewWillAppear
 DEBUG: A viewWillLayoutSubviews
 DEBUG: A viewDidLayoutSubviews
 DEBUG: A viewDidAppear
+
+=======================
+Screen A => Screen B:
+
 DEBUG: B viewDidLoad
 DEBUG: A viewWillDisappear
 DEBUG: B viewWillAppear
