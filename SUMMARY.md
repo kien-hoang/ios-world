@@ -10,6 +10,7 @@
   * [iOS app lifecycle](fundamentals/ios-app-lifecycle.md)
   * [UIViewController lifecycle](fundamentals/uiviewcontroller-lifecycle.md)
   * [Autolayout Priority](fundamentals/autolayout-priority.md)
+  * [Escaping vs Non-escaping](fundamentals/escaping-vs-non-escaping.md)
   * [Ways to pass data](fundamentals/ways-to-pass-data.md)
   * [Frame vs Bounds](fundamentals/frame-va-bounds.md)
 * [Design Patterns/Architecture](design-patterns-architecture/README.md)
