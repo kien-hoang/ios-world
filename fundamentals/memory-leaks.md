@@ -2,6 +2,8 @@
 
 Link tham khảo: [https://ali-akhtar.medium.com/all-about-memory-leaks-in-ios-cdd450d0cc34](https://ali-akhtar.medium.com/all-about-memory-leaks-in-ios-cdd450d0cc34)
 
+> Swift sử dụng Automatic Reference Counting(ARC) để theo dõi và quản lý bộ nhớ ứng dụng. Trong đa số trường hợp, điều này nghĩa là sự quản lý chỉ làm việc trong Swift framework 1 cách tự động, và bạn không cần phải hiểu về quản lý bộ nhớ như nào. ARC tự động giải phóng bộ nhớ bởi việc khi 1 instances của class sẽ giải phóng khi không cần thiết nữa.
+
 ### Định nghĩa
 
 Memory leak là hiện tượng bộ nhớ không được giải phóng bởi ARC bởi khi không thể biết được cái không gian bộ nhớ này có đang còn được sử dụng hay không.
