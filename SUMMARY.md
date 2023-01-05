@@ -27,6 +27,7 @@
     * [VIP](design-patterns-architecture/architecture/mvp-1.md)
 * [Multiple Threads](multiple-threads/README.md)
   * [Introduce](multiple-threads/multiple-threads.md)
+  * [Serial vs Concurency Queue](multiple-threads/serial-vs-concurency-queue.md)
   * [GCD](multiple-threads/gcd.md)
   * [Operation Queue](multiple-threads/operation-queue.md)
 * [UI + Autolayout](ui-+-autolayout/README.md)

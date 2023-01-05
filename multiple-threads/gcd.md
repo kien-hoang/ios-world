@@ -6,11 +6,11 @@ Nhắc đến GCD ta có 1 số khái niệm:
 
 * The main queue: truy cập bằng DispatchQueue.main ⇒ update UI
 * The global queue: truy cập bằng [DispatchQueue.global](http://dispatchqueue.global) ⇒ Nó chia ra làm 4 loại chính và 1 loại default theo QoS (Quality of Service), theo mức độ ưu tiên từ cao nhất xuống thấp nhất:
-  1. userInteractive
-  2. userInitiated
+  1. userInteractive (high priority): Used for animations, or updating UI
+  2. userInitiated (high priority): Used for tasks like loading data from API, preventing the user from making interactions.
   3. default
-  4. utility
-  5. background
+  4. utility (low priority): Used for tasks that do not need to be tracked by the user.
+  5. background (low priority): Used for tasks like saving data in the local database or any maintenance code which is not on high priority.
 
 ⇒ 2 mức độ utility và background thường được sử dụng cho những task nặng (lưu dữ liệu xuống local) để tránh việc block UI
 
@@ -27,3 +27,9 @@ Nhắc đến GCD ta có 1 số khái niệm:
 ⇒ Trong 1 số trường hợp nhất định, chúng ta cần tracking 1 task vụ trong queue nhưng GCD không làm được
 
 ⇒ Sử dụng Operation Queue
+
+
+
+### Reference link
+
+* [https://www.swiftpal.io/articles/what-is-qos-quality-of-service-in-gcd-swift](https://www.swiftpal.io/articles/what-is-qos-quality-of-service-in-gcd-swift)
