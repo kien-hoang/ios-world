@@ -8,7 +8,8 @@
 2. When you have changes, you can save only the changed objects, not the entire data set.
 3. You can read/write your model objects directly instead of converting them to/from something like an NSDictionary
 4. Built-in sorting of objects when you fetch them from the data store.
-5. Others.[https://stackoverflow.com/a/6377850](https://stackoverflow.com/a/6377850)
+5. Rich system of predicates for searching your data set
+6. Others.[https://stackoverflow.com/a/6377850](https://stackoverflow.com/a/6377850)
 
 **Nhược điểm:**
 
