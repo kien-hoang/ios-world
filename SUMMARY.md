@@ -24,7 +24,6 @@
     * [MVP](design-patterns-architecture/architecture/mvp.md)
     * [MVVM](design-patterns-architecture/architecture/mvvm.md)
     * [VIPER](design-patterns-architecture/architecture/viper.md)
-    * [VIP](design-patterns-architecture/architecture/mvp-1.md)
 * [Multiple Threads](multiple-threads/README.md)
   * [Introduce](multiple-threads/multiple-threads.md)
   * [Serial vs Concurency Queue](multiple-threads/serial-vs-concurency-queue.md)
@@ -40,3 +39,4 @@
   * [Lộ trình bắt đầu học lập trình iOS](blogs-+-practices/lo-trinh-bat-dau-hoc-lap-trinh-ios.md)
   * [SOLID](<design-patterns-architecture/solid (1).md>)
   * [Portrait effect on custom camera](practices/portrait-effect-on-custom-camera.md)
+  * [Clean Swift Architecture (VIP)](blogs-+-practices/clean-swift-architecture-vip.md)

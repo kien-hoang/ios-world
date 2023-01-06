@@ -3,4 +3,5 @@
 * [MVC](mvc.md)
 * [MVP](mvp.md)
 * [MVVM](mvvm.md)
-* [VIP](mvp-1.md)
+* [VIPER](viper.md)
+* [VIP](../../blogs-+-practices/clean-swift-architecture-vip.md)
