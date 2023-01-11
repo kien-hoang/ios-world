@@ -40,3 +40,4 @@
   * [SOLID](<design-patterns-architecture/solid (1).md>)
   * [Portrait effect on custom camera](practices/portrait-effect-on-custom-camera.md)
   * [Clean Swift Architecture (VIP)](blogs-+-practices/clean-swift-architecture-vip.md)
+  * [Model View Presenter - Router (MVP-R)](blogs-+-practices/model-view-presenter-router-mvp-r.md)
