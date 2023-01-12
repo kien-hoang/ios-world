@@ -41,3 +41,4 @@
   * [Portrait effect on custom camera](practices/portrait-effect-on-custom-camera.md)
   * [Clean Swift Architecture (VIP)](blogs-+-practices/clean-swift-architecture-vip.md)
   * [Model View Presenter - Router (MVP-R)](blogs-+-practices/model-view-presenter-router-mvp-r.md)
+  * [Strategy Pattern trong iOS](blogs-+-practices/strategy-pattern-trong-ios.md)
