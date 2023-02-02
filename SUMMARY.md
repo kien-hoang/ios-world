@@ -42,3 +42,4 @@
   * [Clean Swift Architecture (VIP)](blogs-+-practices/clean-swift-architecture-vip.md)
   * [Model View Presenter - Router (MVP-R)](blogs-+-practices/model-view-presenter-router-mvp-r.md)
   * [Strategy Pattern trong iOS](blogs-+-practices/strategy-pattern-trong-ios.md)
+  * [Builder Pattern trong Swift iOS](blogs-+-practices/builder-pattern-trong-swift-ios.md)
