@@ -43,3 +43,4 @@
   * [Model View Presenter - Router (MVP-R)](blogs-+-practices/model-view-presenter-router-mvp-r.md)
   * [Strategy Pattern trong iOS](blogs-+-practices/strategy-pattern-trong-ios.md)
   * [Builder Pattern trong Swift iOS](blogs-+-practices/builder-pattern-trong-swift-ios.md)
+  * [Page 1](blogs-+-practices/page-1.md)
