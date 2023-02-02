@@ -44,3 +44,4 @@
   * [Strategy Pattern trong iOS](blogs-+-practices/strategy-pattern-trong-ios.md)
   * [Builder Pattern trong Swift iOS](blogs-+-practices/builder-pattern-trong-swift-ios.md)
   * [Memento Pattern trong Swift iOS](blogs-+-practices/memento-pattern-trong-swift-ios.md)
+  * [Observer Pattern trong Swift iOS](blogs-+-practices/observer-pattern-trong-swift-ios.md)
